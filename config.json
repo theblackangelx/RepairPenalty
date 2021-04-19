@@ -1,7 +1,7 @@
 {
     "gameplay": {
         "repairPenaltyPrapor": 0,
-        "repairPenaltyMechanic": 0,
-        "repairPenaltySkier": 0
+        "repairPenaltyMechanic": 2,
+        "repairPenaltySkier": 9
     }
 }

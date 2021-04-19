@@ -1,11 +1,11 @@
 {
 	"name": "RepairPenalty",
 	"author": "TheBlackAngelx",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"src": {
-		"src/Prapor.js": "TamperModLoad",
-		"src/Skier.js": "TamperModLoad",
-		"src/Mechanic.js": "TamperModLoad"
+		"src/Prapor.js": "CacheModLoad",
+		"src/Skier.js": "CacheModLoad",
+		"src/Mechanic.js": "CacheModLoad"
 	}
 }
