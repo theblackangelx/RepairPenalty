@@ -4,8 +4,6 @@
 	"version": "1.0.2",
 	"license": "MIT",
 	"src": {
-		"src/Prapor.js": "CacheModLoad",
-		"src/Skier.js": "CacheModLoad",
-		"src/Mechanic.js": "CacheModLoad"
+		"src/TraderConfig.js": "CacheModLoad",
 	}
 }
